@@ -17,6 +17,6 @@ print("Terceira nota:", n3)
 
 # boa prática: usar comentários para explicar o "porquê" do código, não o "o quê"
 # Exemplo ruim:
-x =+  1  # incrementa x em 1
+x = +  1  # incrementa x em 1
 # Exemplo bom:
 x = x + 1  # incrementa x para contar o número de tentativas
