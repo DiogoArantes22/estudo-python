@@ -1,4 +1,4 @@
-"""ex04
+"""
 ex04.py: baseado no ex03.py, ao final do programa apresente todas as 
 inconsistências do identificador informado (use uma list de erros). 
 Exemplos:  

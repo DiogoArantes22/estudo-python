@@ -4,7 +4,6 @@ ex01.py: solicite ao usuário 3 notas e apresente o resultado da média
 aritmética.  
 
 """
-# ex01.py
 
 notas = []
 

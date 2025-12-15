@@ -1,5 +1,4 @@
-"""ex2 
-
+"""
  ex02.py: solicite ao usuário, uma única vez, as notas no formato n1, n2, n3, 
 nm e apresente:  
 ○ a média aritmética das notas;  

@@ -1,4 +1,4 @@
-"""ex03 
+"""
 ex03.py: Crie um programa que solicite um identificador ao usuário e 
 informe se é válido ou inválido   
 ○ o código identificador contém 7 caracteres;  
