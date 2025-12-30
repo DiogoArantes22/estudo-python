@@ -33,7 +33,7 @@ def situacao_individuo(imc):
     else:
         return "Precisa perder peso"
 
-
+breakpoint()
 peso = float(input("Digite o peso em kg: "))
 altura = float(input("Digite a altura em metros: "))
 
