@@ -1,0 +1,11 @@
+Python
+JS
+Java
+C#
+C++
+C
+Node
+Sql
+Cobol
+TypeS
+Terraform

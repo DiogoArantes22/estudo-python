@@ -1,0 +1,10 @@
+1,Sistema Acadêmico,Maria da Silva
+2,Controle de Estoque,Pedro Gomes
+3,Portal do Aluno,João Santos
+4,Gerenciamento de Biblioteca,Ana Paula
+5,Sistema de Vendas Online,Carlos Henrique
+6,Aplicativo de Transporte Escolar,Luciana Costa
+7,Plataforma de Cursos EAD,Fernando Rocha
+8,Sistema de Agendamento Médico,Juliana Martins
+9,Controle Financeiro Pessoal,Rafael Lima
+10,Sistema de Gestão de Projetos,Beatriz Alves
