@@ -1,4 +1,4 @@
-"""Aula 03- Introdução à Orientação a Objetos em Python."""
+"""Aula 01- Introdução à Orientação a Objetos em Python."""
 
 # Orientação a Objetos (OO) é um paradigma de programação que utiliza "objetos" para representar dados e funcionalidades.
 # Em Python, tudo é um objeto, incluindo tipos de dados primitivos como inteiros e strings.
